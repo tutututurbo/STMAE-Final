@@ -1,0 +1,3 @@
+==> 2025-05-12 15:37:53 <==
+# cmd: /opt/miniconda3/bin/conda create --prefix ./venv
+# conda version: 24.9.1
